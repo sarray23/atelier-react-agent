@@ -1,5 +1,5 @@
 # Atelier — Agent ReAct multi-outils avec Claude
-
+paper source https://paperswithcode.co/paper/2210.03629
 Atelier pédagogique reprenant le pattern **ReAct** (Reasoning + Acting,
 Yao et al. 2023) et l'adaptant à un agent multi-outils (recherche
 Wikipédia + calcul), avec l'API Claude et son tool use natif.

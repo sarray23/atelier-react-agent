@@ -1,0 +1,5 @@
+anthropic>=0.120.0
+requests>=2.32.0
+jupyter>=1.1.0
+notebook>=7.0.0
+python-dotenv>=1.0.0
